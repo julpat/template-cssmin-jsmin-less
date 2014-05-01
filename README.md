@@ -1,0 +1,1 @@
+Just a template for empty "web project" using LESS and grunt for compiling LESS, minify CSS&JS
